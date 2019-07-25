@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://oa.jointas.com/img/oa/jt.png</string>
+					<string>http://oa.jointas.com/img/oa/oa_512X512.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://oa.jointas.com/img/oa/jt.png</string>
+					<string>http://oa.jointas.com/img/oa/oa_57x57.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
